@@ -62,7 +62,3 @@ The script generates the following columns:
 3. **Status**: open or resolved.  
 4. **Highlighted Text (Context)**: The text in the document that was highlighted.  
 5. **Comment Thread**: The full conversation history.
-
-## **License**
-
-This project is licensed under the MIT License \- see the LICENSE file for details.
